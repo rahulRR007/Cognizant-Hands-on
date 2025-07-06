@@ -1,5 +1,0 @@
-package com.cognizant.countrymanagement.service.exception;
-
-public class CountryNotFoundException {
-
-}
