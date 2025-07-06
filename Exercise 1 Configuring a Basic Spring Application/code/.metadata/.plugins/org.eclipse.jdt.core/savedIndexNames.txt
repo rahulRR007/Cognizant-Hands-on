@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+C:\rahul\congnizant\week3\Exercise 1 Configuring a Basic Spring Application\code\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3800444747.index
+404921679.index
+913159534.index
+468916598.index
+510193382.index
+894427137.index
+2223190632.index
+1046651606.index

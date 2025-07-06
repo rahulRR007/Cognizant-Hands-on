@@ -1,0 +1,5 @@
+package com.cognizant.countrymanagement.repository;
+
+public class CountryRepository {
+
+}

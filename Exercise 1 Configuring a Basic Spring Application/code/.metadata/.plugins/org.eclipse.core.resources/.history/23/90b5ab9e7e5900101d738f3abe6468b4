@@ -1,0 +1,8 @@
+package com.library.repository;
+
+public class Snippet {
+	public static void main(String[] args) {
+		com.library.repository
+	}
+}
+
