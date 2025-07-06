@@ -1,0 +1,5 @@
+package com.cognizant.countryadd.model;
+
+public class Country {
+
+}
