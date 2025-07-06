@@ -1,5 +1,0 @@
-package com.cognizant.ormlearn.model.service;
-
-public class CountryService {
-
-}
